@@ -3,4 +3,4 @@ This is an official implementation of ''A Multi-task Network with Weight Decay S
 
 Accepted by MICCAI 2022  
 
-The code is will be released soon. 
+The code will be released soon. 
