@@ -42,7 +42,7 @@ The proposed WDMT-Net method is trained through two steps:
      python3 main.py \
      --dataset ['IDRiD'/'ADAM'] \
      --datadir './labels/' \
-     --hot \
+     --hog \
      --lr 1e-4 \
      --batch_size 32 \
      --epochs 200 \
