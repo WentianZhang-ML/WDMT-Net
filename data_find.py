@@ -210,6 +210,6 @@ if __name__=="__main__":
     if 'ADAM' in data_dir:
         ADAM_hog_generate(data_dir)
         hog_split(data_dir,'ADAM')
-        ADAM_hog_process_3(data_dir, './labels/ADAM/')
+        ADAM_hog_process(data_dir, './labels/ADAM/')
 
 
