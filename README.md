@@ -1,5 +1,5 @@
 # WDMT-Net
-This is an official implementation of 'A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images'. (Accepted by MICCAI 2022)
+This is an official implementation of 'A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images'. ([Accepted by MICCAI 2022](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_63))
 
 ## A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images
 ![Method](./pipeline.png)
